@@ -1,4 +1,4 @@
-# 📰 Telegram News Aggregator Bot
+# Telegram News Aggregator Bot
 
 Telegram-бот для агрегации новостных заголовков из нескольких первичных источников.
 Поддерживает получение новостей по запросу и по подписке с автоматической доставкой.
@@ -136,7 +136,7 @@ app/
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/<your-username>/telegram-news-bot.git
+   git clone https://github.com/Sorchess/telegram-news-bot.git
    cd telegram-news-bot
    ```
 
